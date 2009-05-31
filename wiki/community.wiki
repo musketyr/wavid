@@ -1,0 +1,5 @@
+#summary Page for gathering Wavid community
+#labels Featured
+
+= Wavid Community =
+This is page for gathering Wavid community. If you are intrerested in this project leave a comment bellow or email me.
