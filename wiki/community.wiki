@@ -2,4 +2,4 @@
 #labels Featured
 
 = Wavid Community =
-This is page for gathering Wavid community. If you want to join this project leave a comment bellow.
+This is page for gathering Wavid community. If you want to join this project leave a comment bellow with short info about yourself and how could you help wavid community.
